@@ -28,7 +28,7 @@ A simple, interactive console-based calculator application built with Java for p
 ### Steps
 
 1. **📂 Clone the repository**
-git clone https://github.com/Anbuselvan-22/console-calculator.git
+git clone https://github.com/Anbuselvan-22/Calculator-using-java.git
 cd console-calculator
 
 text
